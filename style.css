@@ -1,0 +1,15 @@
+.page {
+    background-color: #202020; 
+    color: silver;
+}
+
+.centeredDiv {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center;
+}
+
+.links {
+    color:lightblue;
+}
